@@ -5,7 +5,7 @@ Starfield
 Preamble
 ========
 
-Copyright (C) 2012-2019 Frank Abelbeck <frank.abelbeck@googlemail.com>
+Copyright (C) 2019 Frank Abelbeck <frank.abelbeck@googlemail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -39,6 +39,9 @@ Bottom right button
 
 Changelog
 =========
+
+2019-09-21
+	internal optimisations (e.g. refresh stars that are out of view).
 
 2019-09-19
 	initial commit.
