@@ -40,7 +40,6 @@ Bottom right button
 Changelog
 =========
 
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
 2019-09-30
 	removed load buffer, showing fps instead; warp transition now as
 	step up/down animation; top right button function removed (freed)
